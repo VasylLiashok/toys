@@ -3716,9 +3716,9 @@ body::after {
 	.components__top .components__content {
 		word-break: break-word;
 	}
-	.components__top .components__item--left-image img {
+	/* .components__top .components__item--left-image img {
 		width: 50%;
-	}
+	} */
 	.components__column-block--right {
 		-ms-grid-rows: 1fr 1fr;
 		-ms-grid-columns: 2fr 1fr;
