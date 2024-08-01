@@ -4228,7 +4228,7 @@ body::after {
 		max-width: calc((100% - 0.75rem * 1) / 2);
 		max-width: 100%;
 		width: 100%;
-		flex: 1 ;
+		flex: 1;
 	}
 }
 
@@ -4401,10 +4401,10 @@ body::after {
 	.components__top .components__content {
 		word-break: break-word;
 	}
-
+	/* 
 	.components__top .components__item--left-image img {
 		width: 50%;
-	}
+	} */
 
 	.components__column-block--right {
 		-ms-grid-rows: 1fr 1fr;
