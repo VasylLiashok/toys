@@ -3578,6 +3578,9 @@ body::after {
 		-ms-flex: 0 1 calc((100% - 0.75rem * 1) / 2);
 		flex: 0 1 calc((100% - 0.75rem * 1) / 2);
 		max-width: calc((100% - 0.75rem * 1) / 2);
+		max-width: 100%;
+		width: 100%;
+		flex: 1;
 	}
 }
 @media (max-width: 20em) {
